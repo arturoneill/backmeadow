@@ -2,5 +2,6 @@
 .jumbotron {
   
  background-image: url('/backmeadow/images/washmon.JPG');
+  background-size: cover;
   
 }
