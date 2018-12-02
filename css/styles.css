@@ -1,6 +1,6 @@
 
 /*-----------------Header----------------------------------------------------------------------*/
-#header-nav{
+/*#header-nav{
     background-color: white;
     border: 0px;
     
@@ -10,26 +10,19 @@
     font-size: 1.5em;
    
 }
+*/
 
-#collapsable-nav {
-    background-color:fuchsia;
-	
-    
-}
 
 /*----NAVBAR LIST ITEMS------------------------------*/
 
 
 #nav-list{
-    text-align:center;
-    font-size: 1.5em;
-    text-transform: uppercase;
-    font-weight:bold;
-    color: white;
+
+    color: blue;
 
 }
 .navbar-default .navbar-nav>li>a {
-    color: black;
+    color: red;
 }
 
 li:hover, li:focus, li:active {
@@ -39,8 +32,8 @@ li:hover, li:focus, li:active {
 
 }
 .navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
-    color: white;
-    background-color: transparent;
+    color: grene;
+    background-color: grey;
 }
 
 
